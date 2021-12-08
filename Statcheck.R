@@ -1,8 +1,8 @@
 install.packages('plyr', repos = "http://cran.us.r-project.org")
 library(statcheck)
 
-dataset <- read.csv(file = THIS_IS_YOUR_CSV_FILE)
-claims = dataset[, c(THIS_IS_YOUR_CSV_FILE_Column_Name)]
+dataset <- read.csv(file = 'SCORE_csv.csv')
+claims = dataset[, c("coded_claim4")]
 
 
 claims_error = 0
@@ -26,7 +26,7 @@ for (claim in claims) {
         }
 
     }
-    counter1 = counter1 + 1
+    counter = counter + 1
 
 }
 
