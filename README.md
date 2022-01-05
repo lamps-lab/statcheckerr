@@ -4,7 +4,7 @@ Script to find statistical errors in claims.
 
 # Description:
 
-This repository contatins a script "statcheck.py" written in python. In this script, a package [rpy2] (https://rpy2.github.io/) was used to get the number of claims with statistical error and to enlist them.
+This repository contatins a script "statcheck.py" written in python. In this script, a package [rpy2] (https://rpy2.github.io/) was used to import "statcheck" to get the number of claims with statistical error and to enlist them.
 # Requirements 
 
 Following is the command to install rpy2 using pip:
