@@ -2,15 +2,15 @@
 
 1. "statcheck.py" is the script to find statistical errors in claims
 2. "statchek_extended_feature.py" is the script to find following features:     
-          1. The real p-value
-          2. p-value range
-          3. real_p_sign
-          4. sample_size
-          5. Number of errors in a claim
-          6. Number of p value expressions
-          7. Number of hypothesis tested
-          8. extend_p
-          9. num_significant
+    1. The real p-value
+    2. p-value range
+    3. real_p_sign
+    4. sample_size
+    5. Number of errors in a claim
+    6. Number of p value expressions
+    7. Number of hypothesis tested
+    8. extend_p
+    9. num_significant
 
 # Description:
 
