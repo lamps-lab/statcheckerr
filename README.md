@@ -18,10 +18,6 @@ This repository contatins a script "statcheck.py" written in python. In this scr
 # Requirements 
 1. Python 3.7.12
 2. rpy2
-Following is the command to install rpy2 using pip:
-    
-    pip install rpy2
-
 # Input and Output
 
 Here is the sample input of two claims(claim 1 has statistical error and claim 2 is without error):
