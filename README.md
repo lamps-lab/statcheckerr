@@ -16,7 +16,8 @@
 
 This repository contatins a script "statcheck.py" written in python. In this script, a package [rpy2] (https://rpy2.github.io/) was used to import "statcheck" to get the number of claims with statistical error and to enlist them.
 # Requirements 
-
+1. Python 3.7.12
+2. rpy2
 Following is the command to install rpy2 using pip:
     
     pip install rpy2
