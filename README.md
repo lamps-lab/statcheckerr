@@ -18,6 +18,7 @@ This repository contatins a script "statcheck.py" written in python. In this scr
 # Requirements 
 1. Python 3.7.12
 2. rpy2
+3. R 4.1.2
 # Input and Output
 
 Here is the sample input of two claims(claim 1 has statistical error and claim 2 is without error):
