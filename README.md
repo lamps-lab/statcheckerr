@@ -7,10 +7,9 @@
     3. real_p_sign
     4. sample_size
     5. Number of errors in a claim
-    6. Number of p value expressions
-    7. Number of hypothesis tested
-    8. extend_p
-    9. num_significant
+    6. Number of hypothesis tested
+    7. extend_p
+    8. num_significant
 
 # Description:
 
