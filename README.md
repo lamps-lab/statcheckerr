@@ -1,7 +1,6 @@
 # statcheckerr
 
-1. "statcheck.py" is the script to find statistical errors in claims
-2. "statcheck_extended_feature.py" is the script to find following features of a claim:     
+1. "statcheck_extended_feature.py" is the script to find following features of a claim:     
     1. The real p-value
     2. p-value range
     3. real_p_sign
