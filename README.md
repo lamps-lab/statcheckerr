@@ -1,4 +1,4 @@
-# statcheckerr
+# statchecker
 
 1. "statcheck_extended_feature.py" is the script to find following features of a claim:     
     1. The real p-value
